@@ -46,5 +46,3 @@ function removeElementFromEndOfArray(array) {
   return array(0, array.length - 1);
 }
 
-function 
-}
